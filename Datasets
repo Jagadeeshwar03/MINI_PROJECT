@@ -1,0 +1,6 @@
+DFDC(Deepfake Detection Challenge)	https://www.kaggle.com/c/16880/datadownload/dfdc_train_all.zip
+FF++ (FaceForensics++)	            https://github.com/ondyari/FaceForensics
+Celeb-DF	                          https://github.com/yuezunli/celeb-deepfakeforensics/tree/master/Celeb-DF-v1
+FFHQ (Flickr-Faces-HQ)	            https://github.com/NVlabs/ffhq-dataset
+DFFD (Diverse Fake Face Dataset)	  https://cvlab.cse.msu.edu/dffd-dataset.html
+ForgeryNet	                        https://yinanhe.github.io/projects/forgerynet.html
